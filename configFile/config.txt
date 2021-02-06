@@ -1,0 +1,9 @@
+# Your View ID
+VIEW_ID=<YOUR_VIEW_ID>
+# You can comment out IDs that you don't want to use
+#VIEW_ID=<IGNORE_THIS_ID>
+
+# First Date of Your View
+startDate=<YOUR_FIRST_DATE>
+
+endDate=<YOUR_END_DATE>
